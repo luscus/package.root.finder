@@ -1,3 +1,5 @@
+**DEPRECATED: please use [package.root](https://github.com/luscus/package.root)**
+
 # [package.root.finder](https://github.com/luscus/package.root.finder)
 [![dependencies](https://david-dm.org/luscus/package.root.finder.png)](https://david-dm.org/luscus/package.root.finder)
 [![devDependency Status](https://david-dm.org/luscus/package.root.finder/dev-status.svg?theme=shields.io)](https://david-dm.org/luscus/package.root.finder#info=devDependencies)
